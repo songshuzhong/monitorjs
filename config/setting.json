@@ -1,0 +1,6 @@
+{
+  "basename": "/monitorjs",
+  "env": "production",
+  "version": "/v1",
+  "port": "8080"
+}
